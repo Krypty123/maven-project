@@ -6,6 +6,7 @@
 		<project>webapp</project>
 		<project>server</project>
 		<project>ejb</project>
+		<project>EJB1</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
